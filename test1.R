@@ -1,3 +1,4 @@
 l=1:100
-y=l
+l=1/10
+y=sin(l)
 plot(l,y)
